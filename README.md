@@ -9,8 +9,6 @@ Handling file uploads and downloads.
 **Step 1:** Clone the repository
 
 **Step 2:** Install the dependencies
-```bash
-Run the necessary commands to install the dependencies:
 
 ```bash
 npm install
